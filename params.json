@@ -1,1 +1,7 @@
-{"name":"Bigoz.GitHub.io","tagline":"","body":"### Welcome to BigOz on GitHub\r\nAll of my projects are listed, starting with the most recent.\r\n\r\n[What's for Dinner?](http://bigoz.github.io/whats-for-dinner)\r\nUtilizes computer vision and machine learning to process an image of ingredients and return a recipe that can be made using those ingredients.\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Bigoz.GitHub.io",
+  "tagline": "",
+  "body": "### Welcome to BigOz on GitHub\r\nAll of my projects are listed, starting with the most recent.\r\n\r\n[reversi_ai_testbed](https://github.com/BigOz/reversi_ai_testbed)\r\nA platform for testing the performance of various AI agents in the game of Reversi. Includes a human agent, random agent, and monte-carlo agent.\r\n\r\n[checkers_ai_testbed](https://github.com/BigOz/checkers_ai_testbed)\r\nA platform for testing the performance of various AI agents in the game of Reversi. Includes a human agent, random agent, monte-carlo agent, and alpha-beta pruning agent.\r\n\r\n[What's for Dinner?](http://bigoz.github.io/whats-for-dinner)\r\nUtilizes computer vision and machine learning to process an image of ingredients and return a recipe that can be made using those ingredients.\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
