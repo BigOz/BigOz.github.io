@@ -1,7 +1,7 @@
 {
   "name": "Bigoz.GitHub.io",
   "tagline": "",
-  "body": "### Welcome to BigOz on GitHub\r\nAll of my projects are listed, starting with the most recent.\r\n\r\n[reversi_ai_testbed](http://bigoz.github.io/reversi_ai_testbed/)\r\nA platform for testing the performance of various AI agents in the game of Reversi. Includes a human agent, random agent, and monte-carlo agent.\r\n\r\n[checkers_ai_testbed](http://bigoz.github.io/checkers_ai_testbed/)\r\nA platform for testing the performance of various AI agents in the game of Reversi. Includes a human agent, random agent, monte-carlo agent, and alpha-beta pruning agent.\r\n",
+  "body": "### Welcome to BigOz on GitHub\r\nAll of my projects are listed, starting with the most recent.\r\n\r\n[ai_testbed](https://github.com/BigOz/ai_testbed)\r\nA platform for testing the performance of various AI agents in Reversi and Checkers.\r\n\r\n[reversi_ai_testbed](http://bigoz.github.io/reversi_ai_testbed/)\r\nA platform for testing the performance of various AI agents in the game of Reversi. Includes a human agent, random agent, and monte-carlo agent.\r\n\r\n[checkers_ai_testbed](http://bigoz.github.io/checkers_ai_testbed/)\r\nA platform for testing the performance of various AI agents in the game of Reversi. Includes a human agent, random agent, monte-carlo agent, and alpha-beta pruning agent.\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
